@@ -86,6 +86,3 @@ The script handles SOAP response errors in the form of a failure to return the c
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-This markdown file can be directly used as your `README.md` file in your GitHub repository. You just need to replace `your-username` with your actual GitHub username and adjust any other details as needed.
